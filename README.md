@@ -1,7 +1,7 @@
 # Reti_TCP_client_server
 Piccola applicazione in C che gestisce una connessione TCP client-server.
 
-**Primo esonero di Laboratorio - Reti di Calcolatori (INF) aa 20-21**
+**Primo esonero di Laboratorio - Reti di Calcolatori (INF) aa 21-22**
 
 Progettare ed implementare un'applicazione TCP client/server, dove il server è una calcolatrice remota che risponde alle richieste del client nel seguente modo:
 1. Il client legge da riga di comando l'indirizzo e il numero di porta del server (es. `60000`), dopodiché richiede la connessione al server.

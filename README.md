@@ -1,5 +1,5 @@
 # Reti_TCP_client_server
-Piccola applicazione che gestisce una connessione TCP client-server.
+Piccola applicazione in C che gestisce una connessione TCP client-server.
 
 **Primo esonero di Laboratorio - Reti di Calcolatori (INF) aa 20-21**
 
